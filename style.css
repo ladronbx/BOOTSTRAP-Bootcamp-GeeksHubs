@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: aliceblue;
+
+}
+.row{
+    display: flex;
+    width: 100vw;
+    height: 15vw;
+}
+
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-red{
+    background-color: rgb(128, 0, 0);
+}
+
+.bg-yellow{
+    background-color: rgb(255, 247, 0);
+}
+
+.bg-purple{
+    background-color: rgb(128, 0, 0);
+}
+
+.bg-orange{
+    background-color: rgb(255, 183, 0);
+}
